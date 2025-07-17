@@ -1,1 +1,1 @@
-# Plagiarism-Detection-using-KMP-and-Roll-Hash
+# Plagiarism-Detection-using-KMP-and-Rolling-Hash
